@@ -34,7 +34,7 @@ Steps to initiate the project
 
 2., Then go to the phpmyadmin then open the database site
 
-3., Then import the login_db.sql (login_form folder-->login_db.sql) 
+3., Then import the img_healer_db.sql (login_form folder-->img_healer_db.sql) 
 
 4., Then start the xampp
 
