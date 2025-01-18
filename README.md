@@ -28,7 +28,13 @@ Image to PDF Converter:
 In an image editing tool, the image to PDF converter functionality typically works by allowing users to select one or more image files and then converting them into a single PDF document. Users can choose to either merge all the images into a single page or create a multi-page PDF document that includes all the images.
 
 
+Steps to initiate the project
 
+1., First start your xampp
+2., Then go to the phpmyadmin then open the database site
+3., Then import the login_db.sql (login_form folder-->login_db.sql) 
+4., Then start the xampp
+5., Finally run the index.php script in your web browsers
 
 
 
